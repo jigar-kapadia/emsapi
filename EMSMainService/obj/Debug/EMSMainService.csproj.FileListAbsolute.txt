@@ -1,0 +1,148 @@
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\EMSMainService.dll.config
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\EMSMainService.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\EMSMainService.pdb
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Antlr3.Runtime.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\EntityFramework.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\EntityFramework.SqlServer.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Microsoft.IdentityModel.Logging.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Microsoft.IdentityModel.Tokens.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Microsoft.Owin.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Microsoft.Owin.Security.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Microsoft.Owin.Security.Google.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Microsoft.Web.Infrastructure.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Newtonsoft.Json.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Owin.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\System.Net.Http.Formatting.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\System.Web.Helpers.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\System.Web.Http.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\System.Web.Http.Owin.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\System.Web.Http.WebHost.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\System.Web.Mvc.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\System.Web.Optimization.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\System.Web.Razor.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\System.Web.WebPages.Deployment.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\System.Web.WebPages.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\System.Web.WebPages.Razor.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\WebGrease.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Microsoft.IdentityModel.Logging.xml
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Microsoft.IdentityModel.Tokens.xml
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Newtonsoft.Json.xml
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\System.Net.Http.Formatting.xml
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\System.Web.Helpers.xml
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\System.Web.Http.xml
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\System.Web.Http.WebHost.xml
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\System.Web.Mvc.xml
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\System.Web.Optimization.xml
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\System.Web.Razor.xml
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\System.Web.WebPages.xml
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\System.Web.WebPages.Deployment.xml
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\System.Web.WebPages.Razor.xml
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Antlr3.Runtime.pdb
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\EntityFramework.xml
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\EntityFramework.SqlServer.xml
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Microsoft.Owin.xml
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Microsoft.Owin.Security.xml
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Microsoft.Owin.Security.Google.xml
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\System.Web.Http.Owin.xml
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\obj\Debug\EMSMainService.csprojResolveAssemblyReference.cache
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\obj\Debug\EMSMainService.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\obj\Debug\EMSMainService.pdb
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\Swashbuckle.Core.dll
+c:\users\jigar.kapadia\documents\visual studio 2013\Projects\EMSMainService\EMSMainService\bin\WebActivatorEx.dll
+C:\Users\jigar.kapadia\Documents\Visual Studio 2013\Projects\EMSMainService\EMSMainService\bin\System.Web.Cors.dll
+C:\Users\jigar.kapadia\Documents\Visual Studio 2013\Projects\EMSMainService\EMSMainService\bin\System.Web.Http.Cors.dll
+C:\Users\jigar.kapadia\Documents\Visual Studio 2013\Projects\EMSMainService\EMSMainService\bin\System.Web.Http.Cors.xml
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\EMSMainService.dll.config
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\EMSMainService.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\EMSMainService.pdb
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Antlr3.Runtime.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\EntityFramework.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\EntityFramework.SqlServer.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Microsoft.IdentityModel.Logging.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Microsoft.Owin.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Microsoft.Owin.Security.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Microsoft.Owin.Security.Google.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Microsoft.Web.Infrastructure.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Newtonsoft.Json.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Owin.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Swashbuckle.Core.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\System.Net.Http.Formatting.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\System.Web.Cors.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\System.Web.Helpers.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\System.Web.Http.Cors.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\System.Web.Http.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\System.Web.Http.Owin.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\System.Web.Http.WebHost.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\System.Web.Mvc.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\System.Web.Optimization.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\System.Web.Razor.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\System.Web.WebPages.Deployment.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\System.Web.WebPages.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\System.Web.WebPages.Razor.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\WebActivatorEx.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\WebGrease.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Microsoft.IdentityModel.Logging.xml
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Newtonsoft.Json.xml
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\System.Net.Http.Formatting.xml
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\System.Web.Http.xml
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\System.Web.Http.Cors.xml
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\System.Web.Helpers.xml
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\System.Web.Http.WebHost.xml
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\System.Web.Mvc.xml
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\System.Web.Optimization.xml
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\System.Web.Razor.xml
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\System.Web.WebPages.xml
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\System.Web.WebPages.Deployment.xml
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\System.Web.WebPages.Razor.xml
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Antlr3.Runtime.pdb
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\EntityFramework.xml
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\EntityFramework.SqlServer.xml
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Microsoft.Owin.xml
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Microsoft.Owin.Security.xml
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Microsoft.Owin.Security.Google.xml
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Jigar\Practice\EMSMainService\EMSMainService\bin\System.Web.Http.Owin.xml
+D:\Jigar\Practice\EMSMainService\EMSMainService\obj\Debug\EMSMainService.csprojResolveAssemblyReference.cache
+D:\Jigar\Practice\EMSMainService\EMSMainService\obj\Debug\EMSMainService.dll
+D:\Jigar\Practice\EMSMainService\EMSMainService\obj\Debug\EMSMainService.pdb
