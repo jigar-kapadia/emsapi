@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\v11.0;AttachDbFilename=|DataDirectory|\aspnet-EMSMainService-20180314074021.mdf;Initial Catalog=aspnet-EMSMainService-20180314074021;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Jigar\\Practice\\EMSMainService\\EMSMainService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="EmployeeDBEntities-Web.config Connection String" description="EmployeeDBEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/BusinessEntities.DbEntities.csdl|res://*/BusinessEntities.DbEntities.ssdl|res://*/BusinessEntities.DbEntities.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=.;initial catalog=EmployeeDB;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Jigar\\Practice\\EMSMainService\\EMSMainService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='EmployeeDBEntities']/@connectionString" />
+  </parameter>
+  <parameter name="EmployeeDBEntities1-Web.config Connection String" description="EmployeeDBEntities1 Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/BusinessEntities.EMSEntities.csdl|res://*/BusinessEntities.EMSEntities.ssdl|res://*/BusinessEntities.EMSEntities.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=94f5a1ec-7c75-4eb3-9999-a7f20038c8b9.sqlserver.sequelizer.com;initial catalog=db94f5a1ec7c754eb39999a7f20038c8b9;User ID=ajfnwlycibjehzsh;Password=TAaqyNfgkoBMMNJfySKDpUNyVsGt3Vj5S7wxP4hurgvL8szMzqTHsmc8VHCgfTnx;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Jigar\\Practice\\EMSMainService\\EMSMainService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='EmployeeDBEntities1']/@connectionString" />
+  </parameter>
+</parameters>
